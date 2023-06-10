@@ -1,0 +1,3 @@
+[submodule "LLMVerse/uefn-verse-digests"]
+	path = LLMVerse/uefn-verse-digests
+	url = git@github.com:spilth/uefn-verse-digests.git
