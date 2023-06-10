@@ -1,5 +1,6 @@
 # SharedTerminal
 
+## A chat bot with access to its own code base and GitHub org represented as a filesystem 
 
 os for cloud "google os" 
 shared experience between human and AI users of simply (just run exec) provisioned google cloud: storage, kubernetes containers, ssh to which can be launched as tab session on the website. automatically install vscode tunnel connected to user github and authorized on each instance 
